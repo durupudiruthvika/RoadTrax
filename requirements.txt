@@ -1,0 +1,11 @@
+flask
+gunicorn
+ultralytics
+opencv-python-headless
+numpy
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+PyJWT

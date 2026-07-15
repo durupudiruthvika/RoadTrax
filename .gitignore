@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime data (generated at runtime)
+static/uploads/
+static/predictions/
+users.db
+
+# Local tools and logs
+ngrok.exe
+ngrok_output.txt
